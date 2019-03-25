@@ -1,7 +1,9 @@
-package com.sg;
+package com.sg.view;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.sg.R;
 
 public class MainActivity extends AppCompatActivity {
 
